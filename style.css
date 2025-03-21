@@ -1,0 +1,125 @@
+.name {
+    text-align: center;
+    font-size: 48px;
+    font-weight: bold;
+    
+}
+
+.name2 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.karate1 {
+    height: 330px;
+    border-radius: 10px;
+    margin: 0;
+}
+
+.first-section {
+    height: 100vh;
+}
+
+.image-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.my-photo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.my-photo-2 {
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
+
+.Hello {
+    text-align: center;
+    font-weight: bold;
+    font-size: 35px;
+}
+
+.explain {
+    text-align: center;
+    max-width: 340px;
+    margin: 0 auto;
+}
+.second-section {
+    margin-bottom: 200px;
+} 
+
+
+
+.cantact-me {
+    text-align: center;
+}
+
+.contact-p {
+    text-align: center;
+    max-width: 340px;
+    margin: auto;
+}
+.btn-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #fff;
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0 5px #0056b3;
+    text-decoration: none;
+    text-align: center;
+    transition: all 0.5s ease;
+}
+
+.btn:active {
+    box-shadow: 0 2px #0056b3;
+    transform: translateY(3px);
+}
+
+.footer{
+    display: flex;
+    justify-content: center;
+    margin: 10px 20px;
+    gap: 10px;
+    margin: auto;
+    color:#fff;
+
+}
+.footer-link {
+    color: #fff;
+}
+a {
+    text-decoration: none;
+}
+.last {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.last1 {
+    background-color: #007bff;
+    padding: 20px;
+}
+body {
+        font-family: "Open Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-style: normal;
+}
